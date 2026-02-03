@@ -1,0 +1,9 @@
+2026-02-02 21:15:26,394 - 1T2025.csv: 1698 registros negativos.
+2026-02-02 21:15:28,324 - 2T2025.csv: 1787 registros negativos.
+2026-02-02 21:15:30,285 - 3T2025.csv: 1721 registros negativos.
+2026-02-02 21:22:29,556 - 1T2025.csv: 1698 registros com VALOR NEGATIVO (mantidos).
+2026-02-02 21:22:29,560 - 1T2025.csv: 25887 registros com VALOR ZERADO (mantidos).
+2026-02-02 21:22:31,505 - 2T2025.csv: 1787 registros com VALOR NEGATIVO (mantidos).
+2026-02-02 21:22:31,508 - 2T2025.csv: 23559 registros com VALOR ZERADO (mantidos).
+2026-02-02 21:22:33,511 - 3T2025.csv: 1721 registros com VALOR NEGATIVO (mantidos).
+2026-02-02 21:22:33,517 - 3T2025.csv: 24425 registros com VALOR ZERADO (mantidos).
